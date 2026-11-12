@@ -1,0 +1,12 @@
+import {cp, mkdir, readFile, writeFile, rm} from "node:fs/promises";
+import {execFileSync} from "node:child_process";
+await import("./build-web.mjs");
+await rm("pages-dist",{recursive:true,force:true});
+await mkdir("pages-dist/assets",{recursive:true});
+await cp("internal/toolkit/web","pages-dist/assets",{recursive:true});
+const catalog = JSON.parse(execFileSync("go",["run","./scripts/pages-catalog"],{encoding:"utf8"}));
+await writeFile("pages-dist/assets/pages.js", `globalThis.__HAVEN_STATIC__ = ${JSON.stringify(catalog)};\nawait import('./app.js');\n`);
+let html = await readFile("internal/toolkit/web/index.html","utf8");
+html = html.replaceAll("__TOOLS_BASE__/", "./").replace('assets/app.js','assets/pages.js').replace(/<a href=".\/tasks">任务<\/a>/,'<a href="https://github.com/HaltCatch/haven-tools">源码</a>').replace("工具、执行和结果，在同一个地方。","浏览器版 · 文件仅在本机处理。后台任务请使用自托管服务。");
+await writeFile("pages-dist/index.html",html);
+await writeFile("pages-dist/.nojekyll","");

@@ -1,0 +1,12 @@
+/dist/
+/data/
+/node_modules/
+*.test
+.DS_Store
+__pycache__/
+*.pyc
+/internal/toolkit/web/local-worker.js*
+/internal/toolkit/web/MediaInfoModule.wasm
+/internal/toolkit/web/THIRD-PARTY-NOTICES.txt
+
+pages-dist/

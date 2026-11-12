@@ -1,0 +1,9 @@
+[worker.oci]
+  gc = true
+  max-parallelism = 1
+  reservedSpace = "512MB"
+  maxUsedSpace = "2GB"
+  minFreeSpace = "4GB"
+[history]
+  maxAge = 604800
+  maxEntries = 10

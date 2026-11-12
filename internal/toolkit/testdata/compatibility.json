@@ -1,0 +1,192 @@
+[
+  {
+    "name": "calculate",
+    "text": "1+1",
+    "expected": "2"
+  },
+  {
+    "name": "calculate",
+    "text": "(2+3)×4",
+    "expected": "20"
+  },
+  {
+    "name": "calculate",
+    "text": "0.1+0.2",
+    "expected": "0.3"
+  },
+  {
+    "name": "calculate",
+    "text": "=2^3",
+    "expected": "8"
+  },
+  {
+    "name": "calculate",
+    "text": "8÷2=",
+    "expected": "4"
+  },
+  {
+    "name": "calculate",
+    "text": "2^3^2",
+    "expected": "64"
+  },
+  {
+    "name": "calculate",
+    "text": "-3^2",
+    "expected": "-9"
+  },
+  {
+    "name": "calculate",
+    "text": "2--2",
+    "expected": "4"
+  },
+  {
+    "name": "calculate",
+    "text": "1/3",
+    "expected": "0.33333333333333"
+  },
+  {
+    "name": "calculate",
+    "text": "9000000000000000000*9",
+    "expected": "81000000000000000000"
+  },
+  {
+    "name": "calculate",
+    "text": "1/10000000",
+    "expected": "1e-7"
+  },
+  {
+    "name": "calculate",
+    "text": "2^100",
+    "expected": "1.2676506002282e+30"
+  },
+  {
+    "name": "calculate",
+    "text": "0^0",
+    "expected": "1"
+  },
+  {
+    "name": "calculate",
+    "text": "1/0",
+    "expected": null
+  },
+  {
+    "name": "calculate",
+    "text": "1+",
+    "expected": null
+  },
+  {
+    "name": "calculate",
+    "text": "globalThis.alert(1)",
+    "expected": null
+  },
+  {
+    "name": "calculate",
+    "text": "2;fetch(\"x\")",
+    "expected": null
+  },
+  {
+    "name": "calculate",
+    "text": "99999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999",
+    "expected": null
+  },
+  {
+    "name": "base64-encode",
+    "text": "你好，糖包 🚀\n\u0000末尾 ",
+    "expected": "5L2g5aW977yM57OW5YyFIPCfmoAKAOacq+WwviA="
+  },
+  {
+    "name": "base64-encode",
+    "text": "",
+    "expected": ""
+  },
+  {
+    "name": "base64-decode",
+    "text": "SGVsbG8",
+    "expected": "Hello"
+  },
+  {
+    "name": "base64-decode",
+    "text": "5L2g5aW9",
+    "expected": "你好"
+  },
+  {
+    "name": "base64-decode",
+    "text": "Zh==",
+    "expected": null
+  },
+  {
+    "name": "base64-decode",
+    "text": "/w==",
+    "expected": null
+  },
+  {
+    "name": "base64-decode",
+    "text": "SGVsbG8===",
+    "expected": null
+  },
+  {
+    "name": "url-encode",
+    "text": "你好 a+b?&=%!~*'()",
+    "expected": "%E4%BD%A0%E5%A5%BD%20a%2Bb%3F%26%3D%25!~*'()"
+  },
+  {
+    "name": "url-decode",
+    "text": "a+b",
+    "expected": "a+b"
+  },
+  {
+    "name": "url-decode",
+    "text": "%E4%BD",
+    "expected": null
+  },
+  {
+    "name": "json-format",
+    "text": "{\"id\":900719925474099312345,\"n\":1.2300e+20,\"a\":1,\"a\":2,\"s\":\" a b \"}",
+    "expected": "{\n  \"id\": 900719925474099312345,\n  \"n\": 1.2300e+20,\n  \"a\": 1,\n  \"a\": 2,\n  \"s\": \" a b \"\n}"
+  },
+  {
+    "name": "json-compact",
+    "text": " { \"a\": 1, \"b\": [ 2,3 ] } ",
+    "expected": "{\"a\":1,\"b\":[2,3]}"
+  },
+  {
+    "name": "json-format",
+    "text": "{\"a\":1,}",
+    "expected": null
+  },
+  {
+    "name": "json-format",
+    "text": "{/*comment*/\"a\":1}",
+    "expected": null
+  },
+  {
+    "name": "timestamp",
+    "text": "1700000000",
+    "expected": "UTC：2023-11-14T22:13:20.000Z\n上海（Asia/Shanghai）：2023/11/15 06:13:20\nUnix 秒：1700000000\nUnix 毫秒：1700000000000"
+  },
+  {
+    "name": "timestamp",
+    "text": "1700000000000",
+    "expected": "UTC：2023-11-14T22:13:20.000Z\n上海（Asia/Shanghai）：2023/11/15 06:13:20\nUnix 秒：1700000000\nUnix 毫秒：1700000000000"
+  },
+  {
+    "name": "timestamp",
+    "text": "2023-11-15T06:13:20+08:00",
+    "expected": "UTC：2023-11-14T22:13:20.000Z\n上海（Asia/Shanghai）：2023/11/15 06:13:20\nUnix 秒：1700000000\nUnix 毫秒：1700000000000"
+  },
+  {
+    "name": "timestamp",
+    "text": "2026-02-30T12:00:00Z",
+    "expected": null
+  },
+  {
+    "name": "timestamp",
+    "text": "2026-10-18 12:00:00",
+    "expected": null
+  },
+  {
+    "name": "timestamp",
+    "text": "12345678901",
+    "expected": null
+  }
+]

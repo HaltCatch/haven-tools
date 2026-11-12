@@ -1,0 +1,1134 @@
+[
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@asamuzakjp/css-color",
+    "version": "7.1.7",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@asamuzakjp/dom-selector",
+    "version": "10.0.5",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@bramus/specificity",
+    "version": "2.4.3",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@csstools/color-helpers",
+    "version": "6.1.2",
+    "license": "MIT-0",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@csstools/css-calc",
+    "version": "3.4.3",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@csstools/css-color-parser",
+    "version": "4.2.6",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@csstools/css-parser-algorithms",
+    "version": "4.0.2",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@csstools/css-syntax-patches-for-csstree",
+    "version": "1.1.15",
+    "license": "MIT-0",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@csstools/css-tokenizer",
+    "version": "4.0.2",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@esbuild/aix-ppc64",
+    "version": "0.28.2",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@esbuild/android-arm",
+    "version": "0.28.2",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@esbuild/android-arm64",
+    "version": "0.28.2",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@esbuild/android-x64",
+    "version": "0.28.2",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@esbuild/darwin-arm64",
+    "version": "0.28.2",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@esbuild/darwin-x64",
+    "version": "0.28.2",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@esbuild/freebsd-arm64",
+    "version": "0.28.2",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@esbuild/freebsd-x64",
+    "version": "0.28.2",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@esbuild/linux-arm",
+    "version": "0.28.2",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@esbuild/linux-arm64",
+    "version": "0.28.2",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@esbuild/linux-ia32",
+    "version": "0.28.2",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@esbuild/linux-loong64",
+    "version": "0.28.2",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@esbuild/linux-mips64el",
+    "version": "0.28.2",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@esbuild/linux-ppc64",
+    "version": "0.28.2",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@esbuild/linux-riscv64",
+    "version": "0.28.2",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@esbuild/linux-s390x",
+    "version": "0.28.2",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@esbuild/linux-x64",
+    "version": "0.28.2",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@esbuild/netbsd-arm64",
+    "version": "0.28.2",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@esbuild/netbsd-x64",
+    "version": "0.28.2",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@esbuild/openbsd-arm64",
+    "version": "0.28.2",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@esbuild/openbsd-x64",
+    "version": "0.28.2",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@esbuild/openharmony-arm64",
+    "version": "0.28.2",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@esbuild/sunos-x64",
+    "version": "0.28.2",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@esbuild/win32-arm64",
+    "version": "0.28.2",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@esbuild/win32-ia32",
+    "version": "0.28.2",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@esbuild/win32-x64",
+    "version": "0.28.2",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@exodus/bytes",
+    "version": "1.16.0",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@pdf-lib/standard-fonts",
+    "version": "1.0.0",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/@pdf-lib/upng",
+    "version": "1.0.1",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/ansi-regex",
+    "version": "6.5.0",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/ansi-styles",
+    "version": "6.2.3",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/bidi-js",
+    "version": "1.1.0",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/camelcase",
+    "version": "5.3.1",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/cliui",
+    "version": "9.0.1",
+    "license": "ISC",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/cliui/node_modules/string-width",
+    "version": "7.2.0",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/color-convert",
+    "version": "2.0.1",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/color-name",
+    "version": "1.1.4",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/cron-parser",
+    "version": "5.10.3",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/css-tree",
+    "version": "3.2.1",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/data-urls",
+    "version": "8.0.0",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/decamelize",
+    "version": "1.2.0",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/decimal.js",
+    "version": "10.6.0",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/diff",
+    "version": "9.0.0",
+    "license": "BSD-3-Clause",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/dijkstrajs",
+    "version": "1.0.3",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/emoji-regex",
+    "version": "10.6.0",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/entities",
+    "version": "8.1.0",
+    "license": "BSD-2-Clause",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/esbuild",
+    "version": "0.28.2",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/escalade",
+    "version": "3.2.0",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/exifr",
+    "version": "7.1.3",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/fflate",
+    "version": "0.8.3",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/find-up",
+    "version": "4.1.0",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/get-caller-file",
+    "version": "2.0.5",
+    "license": "ISC",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/get-east-asian-width",
+    "version": "1.7.0",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/html-encoding-sniffer",
+    "version": "7.0.0",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/is-fullwidth-code-point",
+    "version": "3.0.0",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/is-potential-custom-element-name",
+    "version": "1.0.1",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/jsdom",
+    "version": "30.1.3",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/locate-path",
+    "version": "5.0.0",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/lru-cache",
+    "version": "11.5.3",
+    "license": "BlueOak-1.0.0",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/luxon",
+    "version": "3.7.2",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/mdn-data",
+    "version": "2.27.1",
+    "license": "CC0-1.0",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/mediainfo.js",
+    "version": "0.3.8",
+    "license": "BSD-2-Clause",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/p-limit",
+    "version": "2.3.0",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/p-locate",
+    "version": "4.1.0",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/p-try",
+    "version": "2.2.0",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/pako",
+    "version": "1.0.11",
+    "license": "(MIT AND Zlib)",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/parse5",
+    "version": "8.0.1",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/path-exists",
+    "version": "4.0.0",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/pdf-lib",
+    "version": "1.17.1",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/pngjs",
+    "version": "5.0.0",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/prettier",
+    "version": "3.6.2",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/punycode",
+    "version": "2.3.1",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/qrcode",
+    "version": "1.5.4",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/qrcode/node_modules/ansi-regex",
+    "version": "5.0.1",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/qrcode/node_modules/ansi-styles",
+    "version": "4.3.0",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/qrcode/node_modules/cliui",
+    "version": "6.0.0",
+    "license": "ISC",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/qrcode/node_modules/emoji-regex",
+    "version": "8.0.0",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/qrcode/node_modules/string-width",
+    "version": "4.2.3",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/qrcode/node_modules/strip-ansi",
+    "version": "6.0.1",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/qrcode/node_modules/wrap-ansi",
+    "version": "6.2.0",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/qrcode/node_modules/y18n",
+    "version": "4.0.3",
+    "license": "ISC",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/qrcode/node_modules/yargs",
+    "version": "15.4.1",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/qrcode/node_modules/yargs-parser",
+    "version": "18.1.3",
+    "license": "ISC",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/require-directory",
+    "version": "2.1.1",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/require-from-string",
+    "version": "2.0.2",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/require-main-filename",
+    "version": "2.0.0",
+    "license": "ISC",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/saxes",
+    "version": "6.0.0",
+    "license": "ISC",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/set-blocking",
+    "version": "2.0.0",
+    "license": "ISC",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/source-map-js",
+    "version": "1.2.2",
+    "license": "BSD-3-Clause",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/string-width",
+    "version": "8.3.0",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/strip-ansi",
+    "version": "7.2.0",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/tldts",
+    "version": "7.4.19",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/tldts-core",
+    "version": "7.4.19",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/tough-cookie",
+    "version": "6.0.2",
+    "license": "BSD-3-Clause",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/tr46",
+    "version": "7.0.0",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/tslib",
+    "version": "1.14.1",
+    "license": "0BSD",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/undici",
+    "version": "8.12.3",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/w3c-xmlserializer",
+    "version": "6.0.0",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/webidl-conversions",
+    "version": "8.0.1",
+    "license": "BSD-2-Clause",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/whatwg-mimetype",
+    "version": "5.0.0",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/whatwg-url",
+    "version": "17.3.0",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/which-module",
+    "version": "2.0.1",
+    "license": "ISC",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/wrap-ansi",
+    "version": "9.0.2",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/wrap-ansi/node_modules/string-width",
+    "version": "7.2.0",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/xml-name-validator",
+    "version": "5.0.0",
+    "license": "Apache-2.0",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/xmlchars",
+    "version": "2.2.0",
+    "license": "MIT",
+    "dev": true,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/y18n",
+    "version": "5.0.8",
+    "license": "ISC",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/yaml",
+    "version": "2.9.1",
+    "license": "ISC",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/yargs",
+    "version": "18.2.0",
+    "license": "MIT",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "npm",
+    "path": "node_modules/yargs-parser",
+    "version": "22.0.0",
+    "license": "ISC",
+    "dev": false,
+    "lockfile": "package-lock.json"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "yt-dlp",
+    "version": "2026.10.21",
+    "manifest": "media/requirements.txt"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "Pillow",
+    "version": "13.0.0",
+    "manifest": "media/requirements.txt"
+  },
+  {
+    "ecosystem": "go",
+    "name": "codeberg.org/readeck/go-readability/v2",
+    "version": "v2.1.3",
+    "licenseEvidence": "licenses/"
+  },
+  {
+    "ecosystem": "go",
+    "name": "github.com/JohannesKaufmann/html-to-markdown/v2",
+    "version": "v2.5.2",
+    "licenseEvidence": "licenses/"
+  },
+  {
+    "ecosystem": "go",
+    "name": "github.com/asticode/go-astisub",
+    "version": "v0.45.0",
+    "licenseEvidence": "licenses/"
+  },
+  {
+    "ecosystem": "go",
+    "name": "github.com/expr-lang/expr",
+    "version": "v1.17.8",
+    "licenseEvidence": "licenses/"
+  },
+  {
+    "ecosystem": "go",
+    "name": "github.com/makiuchi-d/gozxing",
+    "version": "v0.1.1",
+    "licenseEvidence": "licenses/"
+  },
+  {
+    "ecosystem": "go",
+    "name": "github.com/modelcontextprotocol/go-sdk",
+    "version": "v1.8.0",
+    "licenseEvidence": "licenses/"
+  },
+  {
+    "ecosystem": "go",
+    "name": "github.com/tidwall/gjson",
+    "version": "v1.18.0",
+    "licenseEvidence": "licenses/"
+  },
+  {
+    "ecosystem": "go",
+    "name": "golang.org/x/image",
+    "version": "v0.42.0",
+    "licenseEvidence": "licenses/"
+  },
+  {
+    "ecosystem": "go",
+    "name": "golang.org/x/net",
+    "version": "v0.55.0",
+    "licenseEvidence": "licenses/"
+  },
+  {
+    "ecosystem": "go",
+    "name": "golang.org/x/sys",
+    "version": "v0.45.0",
+    "licenseEvidence": "licenses/"
+  },
+  {
+    "ecosystem": "go",
+    "name": "github.com/JohannesKaufmann/dom",
+    "version": "v0.3.1",
+    "licenseEvidence": "licenses/"
+  },
+  {
+    "ecosystem": "go",
+    "name": "github.com/andybalholm/cascadia",
+    "version": "v1.3.4",
+    "licenseEvidence": "licenses/"
+  },
+  {
+    "ecosystem": "go",
+    "name": "github.com/asticode/go-astikit",
+    "version": "v0.20.0",
+    "licenseEvidence": "licenses/"
+  },
+  {
+    "ecosystem": "go",
+    "name": "github.com/asticode/go-astits",
+    "version": "v1.8.0",
+    "licenseEvidence": "licenses/"
+  },
+  {
+    "ecosystem": "go",
+    "name": "github.com/go-shiori/dom",
+    "version": "v0.0.0-20230515143342-73569d674e1c",
+    "licenseEvidence": "licenses/"
+  },
+  {
+    "ecosystem": "go",
+    "name": "github.com/gogs/chardet",
+    "version": "v0.0.0-20211120154057-b7413eaefb8f",
+    "licenseEvidence": "licenses/"
+  },
+  {
+    "ecosystem": "go",
+    "name": "github.com/google/jsonschema-go",
+    "version": "v0.4.3",
+    "licenseEvidence": "licenses/"
+  },
+  {
+    "ecosystem": "go",
+    "name": "github.com/itlightning/dateparse",
+    "version": "v0.2.1",
+    "licenseEvidence": "licenses/"
+  },
+  {
+    "ecosystem": "go",
+    "name": "github.com/segmentio/asm",
+    "version": "v1.1.3",
+    "licenseEvidence": "licenses/"
+  },
+  {
+    "ecosystem": "go",
+    "name": "github.com/segmentio/encoding",
+    "version": "v0.5.4",
+    "licenseEvidence": "licenses/"
+  },
+  {
+    "ecosystem": "go",
+    "name": "github.com/tidwall/match",
+    "version": "v1.1.1",
+    "licenseEvidence": "licenses/"
+  },
+  {
+    "ecosystem": "go",
+    "name": "github.com/tidwall/pretty",
+    "version": "v1.2.0",
+    "licenseEvidence": "licenses/"
+  },
+  {
+    "ecosystem": "go",
+    "name": "github.com/yosida95/uritemplate/v3",
+    "version": "v3.0.2",
+    "licenseEvidence": "licenses/"
+  },
+  {
+    "ecosystem": "go",
+    "name": "golang.org/x/oauth2",
+    "version": "v0.35.0",
+    "licenseEvidence": "licenses/"
+  },
+  {
+    "ecosystem": "go",
+    "name": "golang.org/x/sync",
+    "version": "v0.21.0",
+    "licenseEvidence": "licenses/"
+  },
+  {
+    "ecosystem": "go",
+    "name": "golang.org/x/text",
+    "version": "v0.38.0",
+    "licenseEvidence": "licenses/"
+  },
+  {
+    "ecosystem": "go",
+    "name": "golang.org/x/time",
+    "version": "v0.15.0",
+    "licenseEvidence": "licenses/"
+  },
+  {
+    "ecosystem": "go",
+    "name": "golang.org/x/xerrors",
+    "version": "v0.0.0-20200804184101-5ec99f83aff1",
+    "licenseEvidence": "licenses/"
+  }
+]
